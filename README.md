@@ -1,4 +1,4 @@
-<div align="center"> <b> Reusable Hive Scripts </b> </div>
+<div align="center" size=20> <b> Reusable Hive Scripts </b> </div>
 
 ## Export Sample Data of Hive Tables:
 
