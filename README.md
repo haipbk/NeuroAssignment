@@ -1,5 +1,5 @@
 <!-- <table align="center"><tr><td align="center" width="9999"> <b> Reusable Hive Scripts </b></td></tr></table> -->
-<table align="center"><tr><td align="center" width="9999"> <strong style="font-size: 35px;"> Reusable Hive Scripts </strong></td></tr></table>
+<table align="center"><tr><td> <font size="40"> Reusable Hive Scripts </font></td></tr></table>
 
 ## Export Sample Data of Hive Tables:
 
