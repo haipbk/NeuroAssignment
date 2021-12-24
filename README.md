@@ -1,4 +1,4 @@
-<p style="font-size:300%;"><b> Reusable Hive Scripts </b></p>
+<p style="font-size:500%;"><b> Reusable Hive Scripts </b></p>
 
 ## Export Sample Data of Hive Tables:
 
